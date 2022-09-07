@@ -1,4 +1,4 @@
-# App 4
+# App Tip Time
 
 App para practicar el disenio de layouts con widgets mas comunes
 containers, stacks, row/columns, text, etc...
